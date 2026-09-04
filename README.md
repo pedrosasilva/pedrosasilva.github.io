@@ -1,8 +1,8 @@
 # Privacy Policy for Sky Hopper
 
-**Effective date:** [Effective Date]
+**Effective date:** 04/09/2026
 
-[Developer/Company Name] ("we", "us") operates the mobile game **Sky Hopper**
+NoseyGames ("we", "us") operates the mobile game **Sky Hopper**
 (the "App"). This policy explains what information the App collects, how it's
 used, and your choices.
 
