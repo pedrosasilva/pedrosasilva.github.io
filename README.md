@@ -62,7 +62,7 @@ born) so it can determine whether to treat the session as a child's:
   non-personalized ads).
 
 If you believe a child has provided us with personal information beyond this,
-please contact us at [Contact Email] and we will address it.
+please contact us at pedrosasilva95@gmail.com and we will address it.
 
 ## Data Retention & Sharing
 
@@ -87,4 +87,4 @@ reflects the latest revision.
 
 ## Contact
 
-Questions about this policy or your data: **[Contact Email]**
+Questions about this policy or your data: **pedrosasilva95@gmail.com**
